@@ -2,8 +2,8 @@ name: Hello
 
 on:
   push:
-    ##branches-ignore:
-      ##- "**"
+    branches-ignore:
+      - "**"
 
 
 jobs:
