@@ -1,9 +1,10 @@
 name: Hello
 
 on:
-  push:
-    branches-ignore:
-      - "**"
+  ##push:
+    ##branches-ignore:
+      ##- "**"
+
 
 jobs:
   hello:
